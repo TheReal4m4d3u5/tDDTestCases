@@ -2,7 +2,7 @@
 
 
 
-[Console of Test Passing](./tDD.png)
+[Image of Test Passing](./tDD.png)
 
 
 
